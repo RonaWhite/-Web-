@@ -116,9 +116,11 @@ http://localhost:8000/
 - 由于老师给的代码注释是英文的，我会把注释改为书上的中文注释，这样一方面是方便后续的查看，另一方面我也能加深这些模块的印象
 - 后面就基本上按照前三步来的，就不细说了，简单来说就是一步步来，遇到bug不要慌，相信自己！！！
 
-再次给上老师的源代码，真的帮了我很多哈哈哈哈：[python_course/src/15-python-web-apps at main · zhoujing204/python_course (github.com)](https://github.com/zhoujing204/python_course/tree/main/src/15-python-web-apps)
+最后再次给上老师的源代码，真的很感谢，帮了我很多哈哈哈哈：[python_course/src/15-python-web-apps at main · zhoujing204/python_course (github.com)](https://github.com/zhoujing204/python_course/tree/main/src/15-python-web-apps)
 
 
+
+***后期代码的维护，请联系QQ：1186505776***
 
 
 
