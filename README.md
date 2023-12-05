@@ -79,11 +79,11 @@ http://localhost:8000/
 
   - 后面发现越写越不对劲，就算对照着写也总有很多错误，去问ChatGPT报错的原因，解释说是因为这种写法已经过时了，类似下图：
 
-  ![image1](img\image1.png)
+  ![image1](img/image1.png)
 
   
 
-  ![image2](img\image2.png)
+  ![image2](img/image2.png)
 
   
 
@@ -104,7 +104,7 @@ http://localhost:8000/
 
   比如说这个例子，原因就在于我自己都没看出来代码里多了个'd'：
 
-  ![image3](img\image3.png)
+  ![image3](img/image3.png)
 
   
 
